@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AshleyC876
+- 👋 Hi, I’m @Ashley Chambers 
 - 👀 I’m interested in User experience design and ethical hacking 
 - 🌱 I’m currently learning Ruby and Computer Networks
 - 💞️ I’m looking to collaborate on ...
